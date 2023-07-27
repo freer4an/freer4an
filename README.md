@@ -8,7 +8,7 @@ I am interested in everything about programming. I plan to work in different IT 
 I am open to any suggestions.
 
 * ✉️  You can contact me at [linkedin](https://www.linkedin.com/in/adayaman/), [freer4an@gmail.com](mailto:freer4an@gmail.com) 
-* 🧠  I'm learning <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
+* 🧠  I'm learning Go (Golang)
 
 ### Skills
 
