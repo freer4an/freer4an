@@ -8,4 +8,3 @@ I am interested in everything about programming. I plan to work in different IT 
 I am open to any suggestions.
 
 * ✉️  You can contact me at [telegram](https://t.me/q_samurai) or [linkedin](https://www.linkedin.com/in/adayaman/) or [freer4an@gmail.com](mailto:freer4an@gmail.com)
-* 🧠  I'm learning Go (Golang)
